@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-devops" target="blank"><img align="center" src="https://img.freepik.com/free-vector/www-internet-globe-grid_78370-2008.jpg?t=st=1741669791~exp=1741673391~hmac=ff3035b546e5ce2076e84bd8ea6cea0b102f8672b2f5e6e66b8b05fa15cf2efb&w=740" alt="https://thaamaraikannan.com" height="30" width="40" /></a>
+<a href="https://thaamaraikannan.com" target="blank"><img align="center" src="https://img.freepik.com/free-vector/www-internet-globe-grid_78370-2008.jpg?t=st=1741669791~exp=1741673391~hmac=ff3035b546e5ce2076e84bd8ea6cea0b102f8672b2f5e6e66b8b05fa15cf2efb" alt="https://thaamaraikannan.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
